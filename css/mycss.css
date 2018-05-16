@@ -1,0 +1,38 @@
+h1 {
+	margin: 5%; 
+	padding: 10% 5%; 
+	background-color: pink;
+	border-radius: 15%/10%;
+	font-family: Utamaru;
+	text-align: center
+}
+h2 {
+	font-family: Comic Sans MS;
+	color: violet;
+	text-align: center
+}
+img {
+	float: right
+}
+.a {
+	background-attachment: fixed;
+	background-size: auto 100%;
+	opacity: 0.8
+}
+.frame {
+	margin: 5%; 
+	padding: 10% 5%; 
+	background-color: white;
+	border-radius: 15%/10%
+}
+.smalltitle {
+	font-family: Comic Sans MS;
+	color: green;
+	font-size: 15pt
+}
+.down {
+	text-align: center;
+	color: white;
+	font-size: 11pt;
+	background-color: black
+}
