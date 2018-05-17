@@ -17,7 +17,7 @@ img {
 .a {
 	background-attachment: fixed;
 	background-size: auto 100%;
-	opacity: 0.8
+	/*opacity: 0.8*/
 }
 .frame {
 	margin: 5%; 
